@@ -1,2 +1,2 @@
-# phantomjs
-phantomjs
+# phantomjs网页截图代码片段
+工作上使用的phantomjs代码片段
